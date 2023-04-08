@@ -1,0 +1,44 @@
+body
+{
+  color:burlywood;
+  background-color:lightcoral;
+
+}
+
+.heading{
+
+  font-size: 60px;
+  font-family: 'Abril Fatface', cursive;
+  color: brown;
+}
+span
+{
+  font-size: 40px;
+}
+#camera , #result
+{
+  border: 2px dashed burlywood;
+  width: 350px;
+  height: 300px; 
+  border: solid brown;
+  
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: burlywood;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+button{
+  background-color: brown;
+  color: burlywood;
+  font-family: 'Abril Fatface', cursive;
+}
+
